@@ -13,7 +13,7 @@
 - 👩‍🎓 Recent graduate from The University of Malawi
 - 🔭 I’m currently working towards publication of my undergrad research and enhancing my data analysis skills (SQL and Python) through an online Cisco course amid job search and grad school applications.
 - 🌱 Academic Interests: Econometrics, Stata, R, Data Viz, Turning messy datasets into meaningful stories
-- 📚 Outside of research, I am an avid reader of fantasy and literary fiction, a crocheter, a hiker, and I dabble in some guitar 
+- 📚 Outside of research, I am an avid reader of fantasy and literary fiction, a crocheter, a hiker, and I'm teaching myself guitar (so my  neighbours are learning patience).
 - 👯 I’m looking to collaborate on data driven reserach projects in economics, public policy and health analytics
 - 📫 How to reach me: I am active on LinkedIn @ linkedin.com/in/levena-banda
 
@@ -27,7 +27,7 @@
 ---
 
 ### ✨ Fun Fact
-I can eat an entire papaya in one sitting without realizing it 🥭.
+I was supposed to be twin but I ate it in my mothers womb :/
 
 ---
 
