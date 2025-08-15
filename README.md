@@ -1,6 +1,6 @@
 ## <!-- Header -->
 <h1 align="center">Hi there 👋, I'm Levena</h1>
-<h3 align="center">Economics Student | Data & Policy Enthusiast | Lifelong Learner</h3>
+<h3 align="center">Economist | Data & Policy Enthusiast | Lifelong Learner</h3>
 
 <!-- Animated GIF or Banner -->
 <p align="center">
